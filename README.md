@@ -17,7 +17,11 @@ The goal of this project is to predict avocado sales and production trends in Ke
 
 ### **1. Microsoft Fabric**
 
-Microsoft Fabric is a cloud-based platform that integrates various data management and analytics tools into a single environment. It helps simplify the entire process of managing data, performing data transformations, and running machine learning models. Key features used in this project include:
+Microsoft Fabric is a cloud-based platform that integrates various data management and analytics tools into a single environment. It helps simplify the entire process of managing data, performing data transformations, and running machine learning models. 
+### **Fabric Architecture**
+![image](https://github.com/user-attachments/assets/ca33fd8e-55aa-4319-a69e-a2f9d2e08a7e)
+
+Key features used in this project include:
 - **Data Ingestion**: Using pipelines, dataflows, and event streams to load and process data.
 - **Medallion Architecture**: Organizing data into raw, cleaned, and enriched layers for better management and analysis.
 - **Azure OpenAI Integration**: For generating business insights and predictions.
