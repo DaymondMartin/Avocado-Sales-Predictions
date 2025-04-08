@@ -117,7 +117,8 @@ After obtaining the predictions from the model, **Azure OpenAI** was used to gen
 ### **3. Market Insights**: Generated using Azure OpenAI, summarizing the impact of predicted changes on the avocado market.
 ![image](https://github.com/user-attachments/assets/235f22cc-5b43-4ccf-b1c2-2c284bcf274c)
 
-
+## **Project Youtube Video**
+The project video - https://youtu.be/8sUOmAa160M 
 
 ## **GitHub Folder Structure**
 
