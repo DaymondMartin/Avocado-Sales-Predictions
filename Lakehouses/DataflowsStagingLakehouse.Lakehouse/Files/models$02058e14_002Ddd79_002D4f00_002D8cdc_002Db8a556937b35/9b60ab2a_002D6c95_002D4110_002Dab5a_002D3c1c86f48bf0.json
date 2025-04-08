@@ -1,0 +1,19 @@
+{
+  "name": "Dataflow Transform Monthly Sales to silver",
+  "culture": "en-US",
+  "version": null,
+  "modifiedTime": "2025-04-02T20:14:45.9358402+00:00",
+  "entities": [],
+  "activities": [
+    {
+      "name": "dbo_Kenya_Month_Avocado_Sales_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    }
+  ],
+  "referenceModels": [],
+  "relationships": [],
+  "ppdf:sqlPrefix": "e95d1dfd3b9349e48ee27431c94f21f5",
+  "ppdf:fastCopy": true,
+  "ppdf:forEach": true
+}

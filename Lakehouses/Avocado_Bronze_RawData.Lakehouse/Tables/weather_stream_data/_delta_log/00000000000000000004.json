@@ -1,0 +1,3 @@
+{"add":{"path":"264f0d6832c6443599218f344a6756e8_1_638786682477991909.parquet","partitionValues":{},"size":2520,"modificationTime":1743071447876,"dataChange":true,"stats":null,"tags":{},"deletionVector":null}}
+{"add":{"path":"c59c67131e15433cbcf3f740eae6cf96_1_638786682791278221.parquet","partitionValues":{},"size":2460,"modificationTime":1743071479153,"dataChange":true,"stats":null,"tags":{},"deletionVector":null}}
+{"txn":{"appId":"cbaba25b-ac9e-4489-b012-7e3c4e911fa2dst-Stream","version":4,"lastUpdated":null}}

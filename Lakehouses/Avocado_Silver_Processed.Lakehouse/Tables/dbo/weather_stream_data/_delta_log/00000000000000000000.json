@@ -1,0 +1,4 @@
+{"protocol":{"minReaderVersion":1,"minWriterVersion":2,"readerFeatures":null,"writerFeatures":null}}
+{"metaData":{"id":"8135180f-fbb3-4fca-b896-187497ad6c1d","format":{"provider":"parquet","options":{}},"schemaString":"{\"type\":\"struct\",\"fields\":[{\"name\":\"timestamp\",\"type\":\"timestamp\",\"nullable\":true,\"metadata\":{}},{\"name\":\"temperature_2m\",\"type\":\"double\",\"nullable\":true,\"metadata\":{}},{\"name\":\"EventProcessedUtcTime\",\"type\":\"timestamp\",\"nullable\":true,\"metadata\":{}}]}","partitionColumns":[],"createdTime":1743432716301,"configuration":{}}}
+{"commitInfo":{"operation":"ReplaceTable","engineInfo":"Mashup Engine/2.141.576.0","additionalCommitInfo":null}}
+{"add":{"path":"93e2682852db4e1aaf7d9862078b5a54.parquet","partitionValues":{},"size":356,"modificationTime":1743432717146,"dataChange":true,"stats":"{\"numRecords\":0,\"minValues\":{},\"maxValues\":{},\"nullCount\":{}}","tags":{"VORDER":"true"}}}

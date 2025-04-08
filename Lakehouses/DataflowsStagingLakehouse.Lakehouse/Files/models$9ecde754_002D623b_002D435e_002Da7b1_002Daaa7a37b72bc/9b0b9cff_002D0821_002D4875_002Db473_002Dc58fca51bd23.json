@@ -1,0 +1,24 @@
+{
+  "name": "Dataflow-Data to Gold",
+  "culture": "en-US",
+  "version": null,
+  "modifiedTime": "2025-04-01T15:04:01.4206198+00:00",
+  "entities": [],
+  "activities": [
+    {
+      "name": "global_market_silver_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    },
+    {
+      "name": "dbo_Kenya_Month_Avocado_Sales_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    }
+  ],
+  "referenceModels": [],
+  "relationships": [],
+  "ppdf:sqlPrefix": "8ec8508cccd5466a9242614eaa533fd6",
+  "ppdf:fastCopy": true,
+  "ppdf:forEach": true
+}

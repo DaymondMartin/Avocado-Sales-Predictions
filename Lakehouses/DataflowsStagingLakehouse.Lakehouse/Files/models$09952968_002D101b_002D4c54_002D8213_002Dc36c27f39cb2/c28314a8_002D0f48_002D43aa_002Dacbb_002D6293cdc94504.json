@@ -1,0 +1,19 @@
+{
+  "name": "Dataflow Avocado  Growing Conditions",
+  "culture": "en-US",
+  "version": null,
+  "modifiedTime": "2025-03-26T19:20:41.5122176+00:00",
+  "entities": [],
+  "activities": [
+    {
+      "name": "Avocado_growing_conditions_kenya_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    }
+  ],
+  "referenceModels": [],
+  "relationships": [],
+  "ppdf:sqlPrefix": "32a93db588a443159b25fa1a807b87e3",
+  "ppdf:fastCopy": true,
+  "ppdf:forEach": true
+}

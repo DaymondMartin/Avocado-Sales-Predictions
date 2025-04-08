@@ -1,0 +1,4 @@
+{"add":{"path":"d45bf3dce3bc42228e0d3fd259ad3b31_1_638796520743262903.parquet","partitionValues":{},"size":2432,"modificationTime":1744055274358,"dataChange":true,"stats":null,"tags":{},"deletionVector":null}}
+{"add":{"path":"559fd2ed7feb4630afbad6a5946f1917_0_638796520746541180.parquet","partitionValues":{},"size":2504,"modificationTime":1744055274673,"dataChange":true,"stats":null,"tags":{},"deletionVector":null}}
+{"add":{"path":"a077020a8f604b27bd56300189fc3c64_3_638796520754196431.parquet","partitionValues":{},"size":2432,"modificationTime":1744055275441,"dataChange":true,"stats":null,"tags":{},"deletionVector":null}}
+{"txn":{"appId":"cbaba25b-ac9e-4489-b012-7e3c4e911fa2dst-Stream","version":68,"lastUpdated":null}}

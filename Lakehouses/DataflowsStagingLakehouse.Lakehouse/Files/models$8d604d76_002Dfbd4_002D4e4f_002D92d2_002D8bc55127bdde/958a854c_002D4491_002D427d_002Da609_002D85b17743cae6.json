@@ -1,0 +1,19 @@
+{
+  "name": "Dataflow Transform Weather Data to Silver",
+  "culture": "en-US",
+  "version": null,
+  "modifiedTime": "2025-03-31T14:52:06.2672376+00:00",
+  "entities": [],
+  "activities": [
+    {
+      "name": "weather_stream_data_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    }
+  ],
+  "referenceModels": [],
+  "relationships": [],
+  "ppdf:sqlPrefix": "508ffa33f85747489f7a2ee6f7d15d7c",
+  "ppdf:fastCopy": true,
+  "ppdf:forEach": true
+}

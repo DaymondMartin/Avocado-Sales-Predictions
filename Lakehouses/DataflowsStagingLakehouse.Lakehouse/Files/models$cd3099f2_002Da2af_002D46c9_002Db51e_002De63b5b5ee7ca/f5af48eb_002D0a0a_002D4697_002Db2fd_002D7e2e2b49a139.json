@@ -1,0 +1,24 @@
+{
+  "name": "Ml data",
+  "culture": "en-US",
+  "version": null,
+  "modifiedTime": "2025-04-07T14:33:16.5212443+00:00",
+  "entities": [],
+  "activities": [
+    {
+      "name": "ml_predicted_production_2030_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    },
+    {
+      "name": "ml_predicted_production_insights_WriteToDataDestination",
+      "result": null,
+      "ppdf:isPipelineUsed": false
+    }
+  ],
+  "referenceModels": [],
+  "relationships": [],
+  "ppdf:sqlPrefix": "d0d8dd4a23074e72ba70e8d9c8863122",
+  "ppdf:fastCopy": true,
+  "ppdf:forEach": true
+}
