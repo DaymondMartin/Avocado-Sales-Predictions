@@ -21,9 +21,9 @@ import requests
 import json
 
 # 🔐 Fill in your Azure OpenAI credentials
-api_key = "bf960d750ff946e8a8908e7f5ed53b71"  # Replace with your key
-endpoint = "https://armelyopenai.openai.azure.com/"  # No trailing slash!
-deployment_name = "armelytest"  # Or gpt-35-turbo
+api_key = "<api key>"  # Replace with your key
+endpoint = "<end point>"  # No trailing slash!
+deployment_name = "<name>"  # Or gpt-35-turbo
 
 # Full URL with API version
 url = f"{endpoint}openai/deployments/{deployment_name}/chat/completions?api-version=2023-07-01-preview"
@@ -76,9 +76,9 @@ import requests
 import json
 
 # Your Azure OpenAI credentials
-api_key = "bf960d750ff946e8a8908e7f5ed53b71"  # Replace with your key
-endpoint = "https://armelyopenai.openai.azure.com/"
-deployment_name = "armelytest"
+api_key = "<api key>"  # Replace with your key
+endpoint = "<end point>"  # No trailing slash!
+deployment_name = "<name>"  # Or gpt-35-turbo
 
 url = f"{endpoint}openai/deployments/{deployment_name}/chat/completions?api-version=2023-07-01-preview"
 
